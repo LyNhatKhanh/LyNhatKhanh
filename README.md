@@ -14,10 +14,10 @@
   />
 </p>
 
-- 🌱 I’m currently studing at **Sài Gòn University** - 💬 Ask me about **HTML,
-CSS, JS, Java, Python,...** - 📫 How to reach me **lynhatkhanh.work@gmail.com**
-- ⚡ Fun fact **I'm an energetic, versatile person. I have a high ability to
-self-study. I am good at communication, sport.**
+- 🌱 I’m currently studing at **Sài Gòn University** 
+- 💬 Ask me about **HTML, CSS, JS, Java, Python,...** 
+- 📫 How to reach me **lynhatkhanh.work@gmail.com**
+- ⚡ Fun fact **I'm an energetic, versatile person. I have a high ability to self-study. I am good at communication, sport.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
