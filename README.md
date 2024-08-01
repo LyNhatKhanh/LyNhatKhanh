@@ -30,7 +30,7 @@
       width="40"
   /></a>
   <a
-    href="https://linkedin.com/in/lynhatkhanh/"
+    href="[https://linkedin.com/in/lynhatkhanh/](https://www.linkedin.com/in/lynhatkhanh2001/)"
     target="blank"
     ><img
       align="center"
