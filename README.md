@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lý Nhật Khánh</h1>
-<h3 align="center">A passionate frontend developer from Vietnam</h3>
+<h3 align="center">A passionate backend developer from Vietnam</h3>
+<p>Recent graduate (April 2024) with a strong foundation in Java and Spring Boot, seeking a Backend Developer role. Proficient in developing and maintaining scalable web applications, RESTful APIs, and database management. Passionate about building efficient backend systems and solving complex problems. Eager to contribute to dynamic web projects and grow professionally.</p>
 <img
   align="right"
   alt="Coding"
@@ -14,7 +15,7 @@
   />
 </p>
 
-- 🌱 I’m currently studing at **Sài Gòn University** 
+- 🌱 I just graduated as a software engineer from Saigon University** 
 - 💬 Ask me about **HTML, CSS, JS, Java, Python,...** 
 - 📫 How to reach me **lynhatkhanh.work@gmail.com**
 - ⚡ Fun fact **I'm an energetic, versatile person. I have a high ability to self-study. I am good at communication, sport.**
